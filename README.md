@@ -8,6 +8,7 @@ You can easily load images from an internet URL, drawable, or file. And there ar
  
 ## Demo
  
+ 
 ![](http://ww3.sinaimg.cn/mw690/610dc034jw1egzor66ojdg20950fknpe.gif)
 
 [Download Apk](https://github.com/daimajia/AndroidImageSlider/releases/download/v1.0.8/demo-1.0.8.apk)
